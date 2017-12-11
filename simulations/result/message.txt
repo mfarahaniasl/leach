@@ -1,0 +1,172 @@
+DEBUG (0):  Powering on node
+DEBUG (1):  Powering on node
+DEBUG (2):  Powering on node
+DEBUG (3):  Powering on node
+DEBUG (4):  Powering on node
+DEBUG (5):  Powering on node
+DEBUG (6):  Powering on node
+DEBUG (7):  Powering on node
+DEBUG (8):  Powering on node
+DEBUG (9):  Powering on node
+DEBUG (10):  Powering on node
+DEBUG (11):  Powering on node
+DEBUG (12):  Powering on node
+DEBUG (13):  Powering on node
+DEBUG (14):  Powering on node
+DEBUG (15):  Powering on node
+DEBUG (16):  Powering on node
+DEBUG (17):  Powering on node
+DEBUG (18):  Powering on node
+DEBUG (19):  Powering on node
+DEBUG (20):  Powering on node
+DEBUG (21):  Powering on node
+DEBUG (22):  Powering on node
+DEBUG (23):  Powering on node
+DEBUG (24):  Powering on node
+DEBUG (25):  Powering on node
+DEBUG (26):  Powering on node
+DEBUG (27):  Powering on node
+DEBUG (28):  Powering on node
+DEBUG (29):  Powering on node
+DEBUG (30):  Powering on node
+DEBUG (31):  Powering on node
+DEBUG (32):  Powering on node
+DEBUG (33):  Powering on node
+DEBUG (34):  Powering on node
+DEBUG (35):  Powering on node
+DEBUG (36):  Powering on node
+DEBUG (37):  Powering on node
+DEBUG (38):  Powering on node
+DEBUG (39):  Powering on node
+DEBUG (40):  Powering on node
+DEBUG (41):  Powering on node
+DEBUG (42):  Powering on node
+DEBUG (43):  Powering on node
+DEBUG (44):  Powering on node
+DEBUG (45):  Powering on node
+DEBUG (46):  Powering on node
+DEBUG (47):  Powering on node
+DEBUG (48):  Powering on node
+DEBUG (49):  Powering on node
+DEBUG (50):  Powering on node
+DEBUG (51):  Powering on node
+DEBUG (52):  Powering on node
+DEBUG (53):  Powering on node
+DEBUG (54):  Powering on node
+DEBUG (55):  Powering on node
+DEBUG (56):  Powering on node
+DEBUG (57):  Powering on node
+DEBUG (58):  Powering on node
+DEBUG (59):  Powering on node
+DEBUG (60):  Powering on node
+DEBUG (61):  Powering on node
+DEBUG (62):  Powering on node
+DEBUG (63):  Powering on node
+DEBUG (64):  Powering on node
+DEBUG (65):  Powering on node
+DEBUG (66):  Powering on node
+DEBUG (67):  Powering on node
+DEBUG (68):  Powering on node
+DEBUG (69):  Powering on node
+DEBUG (70):  Powering on node
+DEBUG (71):  Powering on node
+DEBUG (72):  Powering on node
+DEBUG (73):  Powering on node
+DEBUG (74):  Powering on node
+DEBUG (75):  Powering on node
+DEBUG (76):  Powering on node
+DEBUG (77):  Powering on node
+DEBUG (78):  Powering on node
+DEBUG (79):  Powering on node
+DEBUG (80):  Powering on node
+DEBUG (81):  Powering on node
+DEBUG (82):  Powering on node
+DEBUG (83):  Powering on node
+DEBUG (84):  Powering on node
+DEBUG (85):  Powering on node
+DEBUG (86):  Powering on node
+DEBUG (87):  Powering on node
+DEBUG (88):  Powering on node
+DEBUG (89):  Powering on node
+DEBUG (90):  Powering on node
+DEBUG (91):  Powering on node
+DEBUG (92):  Powering on node
+DEBUG (93):  Powering on node
+DEBUG (94):  Powering on node
+DEBUG (95):  Powering on node
+DEBUG (96):  Powering on node
+DEBUG (97):  Powering on node
+DEBUG (98):  Powering on node
+DEBUG (99):  Powering on node
+DEBUG (0):  #New round start here.
+DEBUG (0):  ;0;0;BS;1 
+DEBUG (46):  ;46;0;CH;1 
+DEBUG (50):  ;50;0;CH;1 
+DEBUG (54):  ;54;0;CH;1 
+DEBUG (58):  ;58;0;CH;1 
+DEBUG (97):  ;97;0;CH;1 
+DEBUG (77):  ;77;0;CH;1 
+DEBUG (81):  ;81;0;CH;1 
+DEBUG (85):  ;85;0;CH;1 
+DEBUG (89):  ;89;0;CH;1 
+DEBUG (93):  ;93;0;CH;1 
+DEBUG (11):  ;11;0;CH;1 
+DEBUG (3):  ;3;0;CH;1 
+DEBUG (7):  ;7;0;CH;1 
+DEBUG (42):  ;42;0;CH;1 
+DEBUG (15):  ;15;0;CH;1 
+DEBUG (19):  ;19;0;CH;1 
+DEBUG (38):  ;38;0;CH;1 
+DEBUG (13):  ;13;7;Mote;1 
+DEBUG (27):  ;27;81;Mote;1 
+DEBUG (16):  ;16;7;Mote;1 
+DEBUG (69):  ;69;89;Mote;1 
+DEBUG (44):  ;44;7;Mote;1 
+DEBUG (83):  ;83;97;Mote;1 
+DEBUG (72):  ;72;89;Mote;1 
+DEBUG (5):  ;5;81;Mote;1 
+DEBUG (47):  ;47;7;Mote;1 
+DEBUG (33):  ;33;81;Mote;1 
+DEBUG (61):  ;61;7;Mote;1 
+DEBUG (8):  ;8;81;Mote;1 
+DEBUG (22):  ;22;50;Mote;1 
+DEBUG (36):  ;36;81;Mote;1 
+DEBUG (78):  ;78;7;Mote;1 
+DEBUG (92):  ;92;3;Mote;1 
+DEBUG (39):  ;39;81;Mote;1 
+DEBUG (25):  ;25;89;Mote;1 
+DEBUG (53):  ;53;15;Mote;1 
+DEBUG (95):  ;95;7;Mote;1 
+DEBUG (17):  ;17;81;Mote;1 
+DEBUG (59):  ;59;89;Mote;1 
+DEBUG (87):  ;87;81;Mote;1 
+DEBUG (6):  ;6;7;Mote;1 
+DEBUG (20):  ;20;7;Mote;1 
+DEBUG (34):  ;34;7;Mote;1 
+DEBUG (76):  ;76;15;Mote;1 
+DEBUG (62):  ;62;81;Mote;1 
+DEBUG (90):  ;90;81;Mote;1 
+DEBUG (9):  ;9;58;Mote;1 
+DEBUG (37):  ;37;7;Mote;1 
+DEBUG (51):  ;51;89;Mote;1 
+DEBUG (79):  ;79;58;Mote;1 
+DEBUG (40):  ;40;7;Mote;1 
+DEBUG (82):  ;82;89;Mote;1 
+DEBUG (96):  ;96;81;Mote;1 
+DEBUG (4):  ;4;42;Mote;1 
+DEBUG (18):  ;18;97;Mote;1 
+DEBUG (32):  ;32;42;Mote;1 
+DEBUG (57):  ;57;7;Mote;1 
+DEBUG (99):  ;99;81;Mote;1 
+DEBUG (88):  ;88;7;Mote;1 
+DEBUG (21):  ;21;81;Mote;1 
+DEBUG (35):  ;35;85;Mote;1 
+DEBUG (49):  ;49;81;Mote;1 
+DEBUG (63):  ;63;15;Mote;1 
+DEBUG (91):  ;91;7;Mote;1 
+DEBUG (10):  ;10;7;Mote;1 
+DEBUG (24):  ;24;81;Mote;1 
+DEBUG (80):  ;80;81;Mote;1 
+DEBUG (66):  ;66;15;Mote;1 
+DEBUG (94):  ;94;50;Mote;1 
+DEBUG (0):  Stopping simulation

@@ -1,0 +1,1 @@
+/home/faryad-mfa/workspace/TICA-101/simulations/result/EnergyPowerCurses.txt
